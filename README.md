@@ -1,17 +1,24 @@
 # Zorgcirkel
- 
-## Description
 A website made in one week as a bootcamp project.
+
 I got third place with it.
+
 It still needs some work but it has most functionalities working.
 
+**Active Development:** <br>
+**Last Change:** <br>
+
+| | |
+| :---: | :---: |
+| ![](/Screenshots/1-Home.png) | ![](/Screenshots/2-Log_In.png) |
+
+The database does not work anymore so I can only show the things guests can see.
 
 ## Information
 Type: Web Application
 Language: Dutch
 Programming languages: C#, HTML, CSS, JS, SQL
 Frameworks and libraries: ASP.NET MVC, .NET Framework, Bootstrap, DataTables
-
 
 ## Progress
 - Start date: 02.12.19
@@ -26,10 +33,3 @@ Frameworks and libraries: ASP.NET MVC, .NET Framework, Bootstrap, DataTables
 - Main features missing: 
 	- Styling
 	- Questions
-
-
-## Screenshots
-The database does not work anymore so I can only show the things guests can see.
-![Home](/Screenshots/Home.png)
-
-![Log In](/Screenshots/Log%20In.png)
