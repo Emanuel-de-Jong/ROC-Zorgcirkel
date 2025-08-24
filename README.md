@@ -21,8 +21,8 @@ Programming languages: C#, HTML, CSS, JS, SQL
 Frameworks and libraries: ASP.NET MVC, .NET Framework, Bootstrap, DataTables
 
 ## Progress
-- Start date: 02.12.19
-- Last change: 06.12.19
+- Start date: 2019-12-02
+- Last change: 2019-12-06
 - Activity status: Ended
 - Completion status: 75%
 - Useable: Yes
