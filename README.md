@@ -1,7 +1,7 @@
 # Zorgcirkel
-A website made in one week as a bootcamp project.
+A platform to make YOUR life easier while you're caring for your old man. Easily talk with family and doctors in your parents/grandparents circle. Share documents and fill in forms.
 
-I got third place with it.
+For an ROC bootcamp where programming students and medical students came together for a week to make a web application for a real company. We got third place.
 
 It still needs some work but it has most functionalities working.
 
