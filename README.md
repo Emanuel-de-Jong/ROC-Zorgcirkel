@@ -5,8 +5,8 @@ For an ROC bootcamp where programming students and medical students came togethe
 
 It still needs some work but it has most functionalities working.
 
-**Active Development:** <br>
-**Last Change:** <br>
+**Active Development:** 2019-12-02 - 2019-12-06<br>
+**Last Change:** 2019-12-06<br>
 
 | | |
 | :---: | :---: |
@@ -21,8 +21,6 @@ Programming languages: C#, HTML, CSS, JS, SQL
 Frameworks and libraries: ASP.NET MVC, .NET Framework, Bootstrap, DataTables
 
 ## Progress
-- Start date: 2019-12-02
-- Last change: 2019-12-06
 - Activity status: Ended
 - Completion status: 75%
 - Useable: Yes
